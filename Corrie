@@ -1,0 +1,35 @@
+Version 1
+
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops">
+	<head>
+		<title>cover</title>
+		<link href="css/mcgee.css" rel="stylesheet" type="text/css" />
+		<style type="text/css">@page {margin:0;} body {margin:0; padding:0;}</style>
+	</head>
+	<body class="fullpage">
+		<div class="cover" epub:type="cover">
+			<img src="image/cover.jpg" style="max-width:100%" alt="cover.jpg" />
+		</div>
+	</body>
+</html>
+__________________________________________
+
+Version 2
+
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops">
+	<head>
+		<title>cover</title>
+		<link href="css/mcgee.css" rel="stylesheet" type="text/css" />
+		<style type="text/css">@page {margin:0;} body {margin:0; padding:0;}</style>
+	</head>
+	<body class="fullpage">
+		<div class="cover" epub:type="cover">
+			<img src="image/cover.jpg" style="width:100%; height:auto;" alt="cover.jpg" />
+		</div>
+	</body>
+</html>
+
